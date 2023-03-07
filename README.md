@@ -81,35 +81,30 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
+<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
-<div align='left'>
-<ul>
-<li>
+<br>
 <a href="https://www.linkedin.com/in/in-vikashmaurya" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin: 5px;"/>
 </a>
-</li>
-
-<li>
 <a href="mailto:vikashmaurya10stp@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
 </a>
-</li>
-<li>
 <a href="https://www.instagram.com/vikashmauryastp/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23EA4335.svg?style=flat&logo=instagram&logoColor=white&color=30618A" alt="instagram" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/instagram-%23EA4335.svg?style=flat&logo=instagram&logoColor=white&color=30618A" alt="instagram" style="margin: 5px;" />
 </a>
-</li>
-	
-</ul>
-</div>
 
 <br>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Projects</b>
+<br>
 
 ### Creativity:
 
