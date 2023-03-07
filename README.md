@@ -1,15 +1,3 @@
-<style>
-  .profile{
-    display:flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-  @media(max-width:768px){
-    .profile{
-      flex-direction: column-reverse;
-    }
-  }
-</style>
 <h1 align="center"><b>Hi , I'm Vikash Maurya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -20,9 +8,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<div class="profile">
+<div style="display:flex;align-items: center;justify-content: space-between;">
 <div>
-- A passionate Self-taught Front-end developer. <br>
+- A passionate Self-taught Front-end developer.<br>
 - Currently pursuing <b>MCA</b> form <b>Bundelkhand University</b>.<br>
 - Currently learning Web Development and Backend Development by Self Study.
 </div>
@@ -43,15 +31,14 @@
 
 - **Languages**:
   <br>
-  <a><ion-icon name="logo-react"></ion-icon></a>
   ![C](https://img.shields.io/badge/-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
   ![java](https://img.shields.io/badge/JAVA%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
   ![ph[]](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <br>   
     
-- **Front-End Development**:
-<br>
+- **Front-End Development**:  
+  <br>
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
