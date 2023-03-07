@@ -1,13 +1,11 @@
 <style>
-  .hi{
+  .profile{
     display:flex;
     align-items: center;
     justify-content: space-between;
-    border:1px solid red;
   }
   @media(max-width:768px){
-    .hi{
-      border:1px solid blue;
+    .profile{
       flex-direction: column-reverse;
     }
   }
@@ -22,7 +20,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<div class="hi">
+<div class="profile">
 <div>
 - A passionate Self-taught Front-end developer. <br>
 - Currently pursuing <b>MCA</b> form <b>Bundelkhand University</b>.<br>
