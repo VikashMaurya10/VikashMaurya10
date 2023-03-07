@@ -8,7 +8,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<div style="display:flex;align-items: center;justify-content: space-between;">
+<div style="display:flex;align-items:center;justify-content: space-between; min-height:200px">
 <div>
 - A passionate Self-taught Front-end developer.<br>
 - Currently pursuing <b>MCA</b> form <b>Bundelkhand University</b>.<br>
