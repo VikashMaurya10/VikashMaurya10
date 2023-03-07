@@ -1,3 +1,17 @@
+<style>
+  .hi{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    border:1px solid red;
+  }
+  @media(max-width:768px){
+    .hi{
+      border:1px solid blue;
+      flex-direction: column-reverse;
+    }
+  }
+</style>
 <h1 align="center"><b>Hi , I'm Vikash Maurya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -8,18 +22,22 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+<div class="hi">
+<div>
+- A passionate Self-taught Front-end developer. <br>
+- Currently pursuing <b>MCA</b> form <b>Bundelkhand University</b>.<br>
+- Currently learning Web Development and Backend Development by Self Study.
+</div>
 <br>
 
-- A passionate Self-taught Front-end developer.
-- Currently pursuing <b>MCA</b> form <b>Bundelkhand University</b>.
-- Currently learning Web Development and Backend Development by Self.
-  <br><br>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
+</div>
+
+<br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <div style="display:flex; align-items:center; justify-content:left; gap:10px" ><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></div>
 
 <br>
 
@@ -61,11 +79,11 @@
 <br>
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <div style="display:flex; align-items:center; justify-content:left; gap:10px" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></div>
 
 <br>
 
@@ -81,29 +99,28 @@
 <br>
 <br>
 <br>
-
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 
-## <div style="display:flex; align-items:center; justify-content:left; height:100px"><b> Let's Connect..!</b><span style="width:150px">![handshake](./images/handshake.gif)</span></div>
+## <div style="display:flex; align-items:center; justify-content:left;"><b> Let's Connect..!</b><span style="width:150px">![handshake](./images/handshake.gif)</span></div>
 
-<br>
 <div align='left'>
-
-<ul style="list-style:none">
-
+<ul style="list-style:none; font-family:Roboto;">
 <li>
 <a href="https://www.linkedin.com/in/in-vikashmaurya" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: Vikash Maurya-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
 </li>
-<br>
 
 <li>
 <a href="mailto:vikashmaurya10stp@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
+</a>
+</li>
+<li>
+<a href="https://www.instagram.com/vikashmauryastp/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23EA4335.svg?style=flat&logo=instagram&logoColor=white&color=30618A" alt="instagram" style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -113,8 +130,33 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li> -->
+## <div style="display:flex; align-items:center; justify-content:left; gap:10px" ><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Projects</b></div>
+
+### Creativity:
+
+- [inkronix](https://vikashmaurya10.github.io/inkronix/)
+- [Clone-Windows-11](https://vikashmaurya10.github.io/Clone-Windows-11/)
+- [watch-landing-page](https://vikashmaurya10.github.io/watch-landing-page/)
+- [Rotate-Circle](https://vikashmaurya10.github.io/Rotate-Circle/)
+- [Ripple-Search](https://vikashmaurya10.github.io/Ripple-Search/)
+- [Profile-Card](https://vikashmaurya10.github.io/Profile-Card-II-/)
+- [Profile-Card](https://vikashmaurya10.github.io/Profile-Card/)
+- [Product-Card](https://vikashmaurya10.github.io/Product-Card/)
+- [Preloder](https://vikashmaurya10.github.io/Preloder/)
+- [Input-Field](https://vikashmaurya10.github.io/Input-Field/)
+- [Hamburger-Button](https://vikashmaurya10.github.io/Hamburger-Button/)
+
+### Frontend Mentor Challenages:
+
+- [huddle-landing-page-with-single-introductory-section-master](https://vikashmaurya10.github.io/huddle-landing-page-with-single-introductory-section-master/)
+- [social-proof-section-master](https://vikashmaurya10.github.io/social-proof-section-master/)
+- [nft-preview-card-component-main](https://vikashmaurya10.github.io/nft-preview-card-component-main/)
+- [interactive-rating-component-main](https://vikashmaurya10.github.io/interactive-rating-component-main/)
+- [profile-card-component-main](https://vikashmaurya10.github.io/profile-card-component-main/)
+- [four-card-feature-section-master](https://vikashmaurya10.github.io/four-card-feature-section-master/)
+- [results-summary-component-main](https://vikashmaurya10.github.io/results-summary-component-main/)
+- [single-price-grid-component-master](https://vikashmaurya10.github.io/single-price-grid-component-master/)
+- [3-column-preview-card-component-main](https://vikashmaurya10.github.io/3-column-preview-card-component-main/)
+- [stats-preview-card-component-main](https://vikashmaurya10.github.io/stats-preview-card-component-main/)
+- [order-summary-component-main](https://vikashmaurya10.github.io/order-summary-component-main/)
+- [qr-code-component-main](https://vikashmaurya10.github.io/qr-code-component-main/)
