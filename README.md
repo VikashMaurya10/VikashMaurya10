@@ -101,7 +101,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Projects</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Projects</b>
 
 <br>
 
@@ -131,6 +131,7 @@
 
 ### Frontend Mentor Challenages:
 
+- [article-preview-component-master](https://vikashmaurya10.github.io/article-preview-component-master/)
 - [huddle-landing-page-with-single-introductory-section-master](https://vikashmaurya10.github.io/huddle-landing-page-with-single-introductory-section-master/)
 - [social-proof-section-master](https://vikashmaurya10.github.io/social-proof-section-master/)
 - [nft-preview-card-component-main](https://vikashmaurya10.github.io/nft-preview-card-component-main/)
