@@ -107,8 +107,9 @@
 
 ### Creativity:
 
-- [inkronix](https://vikashmaurya10.github.io/inkronix/)
-- [Clone-Windows-11](https://vikashmaurya10.github.io/Clone-Windows-11/)
+- [Calculator](https://vikashmaurya10.github.io/calculator/)
+- [Inkronix](https://vikashmaurya10.github.io/inkronix/)
+- [Ui-Clone-Windows-11](https://vikashmaurya10.github.io/Clone-Windows-11/)
 - [watch-landing-page](https://vikashmaurya10.github.io/watch-landing-page/)
 - [Rotate-Circle](https://vikashmaurya10.github.io/Rotate-Circle/)
 - [Ripple-Search](https://vikashmaurya10.github.io/Ripple-Search/)
