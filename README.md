@@ -71,8 +71,9 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikashMaurya10&theme=tokyonight&hide_border=false)](https://github.com/VikashMaurya10" alt="Vikash GitHub Stats Graph"/>
 
 <br>
+<br>
 
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=VikashMaurya10&bg_color=181925&color=6FEDD6&line=FFA3FD&point=FFFFFF&area=true&area_color=FEDEFF&hide_border=true&radius=10" />
+<img width='80%' alt="Vikash GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=VikashMaurya10&bg_color=181925&color=6FEDD6&line=FFA3FD&point=FFFFFF&area=true&area_color=FEDEFF&hide_border=true&radius=10" />
 
 <br>
 
