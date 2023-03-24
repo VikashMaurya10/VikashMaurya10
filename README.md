@@ -71,10 +71,9 @@
 <a href="https://github.com/VikashMaurya10">
   <img src="https://github-readme-stats.vercel.app/api?username=VikashMaurya10&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VikashMaurya10&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="VikashMaurya"/>
-
+  <a href="https://github.com/VikashMaurya10"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikashMaurya10&line_height=10&theme=tokyonight&hide_border=true"  width="375" alt="VikashMaurya10"/></a>
 </a>
 </div>
-
 <br>
 <br>
 <br>
@@ -85,15 +84,19 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <br>
-<a href="https://www.linkedin.com/in/in-vikashmaurya" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin: 5px;"/>
-</a>
-<a href="mailto:vikashmaurya10stp@gmail.com" target="_blank">
+
+[![@in-vikashmaurya](https://img.icons8.com/fluency/48/000000/linkedin.png "@in-vikashmaurya")](https://www.linkedin.com/in/in-vikashmaurya/)
+[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/instagram-new.png "@vikashmauryastp")](https://www.instagram.com/vikashmauryastp/)[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/gmail-new "@vikashmaurya10stp@gmail.com")](mailto:vikashmaurya10stp@gmail.com)[![@VikashMauryastp](https://img.icons8.com/fluency/48/000000/facebook.png "@VikashMauryastp")](https://www.facebook.com/VikashMauryastp)
+
+<!-- <a href="https://www.linkedin.com/in/in-vikashmaurya" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin: 5px;"/> -->
+<!-- </a> -->
+<!-- <a href="mailto:vikashmaurya10stp@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/vikashmauryastp/" target="_blank">
+</a> -->
+  <!-- <a href="https://www.instagram.com/vikashmauryastp/" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23EA4335.svg?style=flat&logo=instagram&logoColor=white&color=30618A" alt="instagram" style="margin: 5px;" />
-</a>
+</a> -->
 <br>
 <br>
 <br>
