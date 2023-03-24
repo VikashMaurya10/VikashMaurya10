@@ -25,36 +25,36 @@
 
 - **Languages**:
   <br>
-  ![C](https://img.shields.io/badge/-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![java](https://img.shields.io/badge/JAVA%20-%2314354C.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![ph[]](https://img.shields.io/badge/PHP%20-%2314354C.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![c](https://img.icons8.com/color/48/000000/c.png)
+  ![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+  ![php](https://img.icons8.com/officel/48/000000/php-logo.png)
 
 <br>   
     
 - **Front-End Development**:  
   <br>
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![JavaSct](https://img.shields.io/badge/ReactJs%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black)
+![html](https://img.icons8.com/color/48/000000/html-5.png)
+![css](https://img.icons8.com/color/48/000000/css3.png)
+![js](https://img.icons8.com/color/48/000000/javascript.png)
+![scss](https://img.icons8.com/color/48/000000/sass.png)
 
 <br>
 
 - **Cloud Hosting**:
 
-  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![js](https://img.icons8.com/color/48/000000/git.png)
 
 <br>
 
 - **Softwares and Tools**:
 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/vs%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-  <br>
-  </p>
+  ![hit](https://img.icons8.com/color/48/000000/git.png)
+  ![github](https://img.icons8.com/color/48/000000/github.png)
+  <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Figma" height="37" />
+  ![js](https://img.icons8.com/color/48/000000/stackoverflow.png)
+  <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="37" />
 
+<br>
 <br>
 <br>
 
@@ -68,11 +68,8 @@
 
 <div align="center">
 
-<a href="https://github.com/VikashMaurya10">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikashMaurya10&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VikashMaurya10&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="VikashMaurya"/>
-  <a href="https://github.com/VikashMaurya10"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikashMaurya10&line_height=10&theme=tokyonight&hide_border=true"  width="375" alt="VikashMaurya10"/></a>
-</a>
+[![Tap to Reload](https://metrics.lecoq.io/VikashMaurya10?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/VikashMaurya10)
+
 </div>
 <br>
 <br>
@@ -86,17 +83,10 @@
 <br>
 
 [![@in-vikashmaurya](https://img.icons8.com/fluency/48/000000/linkedin.png "@in-vikashmaurya")](https://www.linkedin.com/in/in-vikashmaurya/)
-[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/instagram-new.png "@vikashmauryastp")](https://www.instagram.com/vikashmauryastp/)[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/gmail-new "@vikashmaurya10stp@gmail.com")](mailto:vikashmaurya10stp@gmail.com)[![@VikashMauryastp](https://img.icons8.com/fluency/48/000000/facebook.png "@VikashMauryastp")](https://www.facebook.com/VikashMauryastp)
+[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/instagram-new.png "@vikashmauryastp")](https://www.instagram.com/vikashmauryastp/)
+[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/gmail-new "@vikashmaurya10stp@gmail.com")](mailto:vikashmaurya10stp@gmail.com)
+[![@VikashMauryastp](https://img.icons8.com/fluency/48/000000/facebook.png "@VikashMauryastp")](https://www.facebook.com/VikashMauryastp)
 
-<!-- <a href="https://www.linkedin.com/in/in-vikashmaurya" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin: 5px;"/> -->
-<!-- </a> -->
-<!-- <a href="mailto:vikashmaurya10stp@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
-</a> -->
-  <!-- <a href="https://www.instagram.com/vikashmauryastp/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23EA4335.svg?style=flat&logo=instagram&logoColor=white&color=30618A" alt="instagram" style="margin: 5px;" />
-</a> -->
 <br>
 <br>
 <br>
