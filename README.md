@@ -50,9 +50,9 @@
 
   ![hit](https://img.icons8.com/color/48/000000/git.png)
   ![github](https://img.icons8.com/color/48/000000/github.png)
-  <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Figma" height="37" />
+  <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Figma" height="40" />
   ![js](https://img.icons8.com/color/48/000000/stackoverflow.png)
-  <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="37" />
+  <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" />
 
 <br>
 <br>
