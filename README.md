@@ -67,17 +67,17 @@
 <br>
 
 <div align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikashMaurya10&theme=tokyonight&hide_border=false)](https://github.com/VikashMaurya10" alt="Vikash GitHub Stats Graph"/>
+<a href="#"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikashMaurya10&theme=tokyonight&hide_border=false)](https://github.com/VikashMaurya10" alt="Vikash GitHub Stats Graph"/></a>
 
 <br>
 <br>
 
-<img width='90%' alt="Vikash GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=VikashMaurya10&bg_color=181925&color=6FEDD6&line=FFA3FD&point=FFFFFF&area=true&area_color=FEDEFF&hide_border=true&radius=10" />
+<a href="#"><img width='90%' alt="Vikash GitHub Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=VikashMaurya10&bg_color=181925&color=6FEDD6&line=FFA3FD&point=FFFFFF&area=true&area_color=FEDEFF&hide_border=true&radius=10" /></a>
 
 <br>
 <br>
 
-[![Tap to Reload](https://metrics.lecoq.io/VikashMaurya10?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/VikashMaurya10)
+<a href="#">[![Tap to Reload](https://metrics.lecoq.io/VikashMaurya10?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/VikashMaurya10)</a>
 
 </div>
 <br>
