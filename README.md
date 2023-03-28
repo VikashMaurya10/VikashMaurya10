@@ -25,34 +25,34 @@
 
 - **Languages**:
   <br>
-  ![c](https://img.icons8.com/color/48/000000/c.png)
-  ![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
-  ![php](https://img.icons8.com/officel/48/000000/php-logo.png)
+  <a href="#">![c](https://img.icons8.com/color/48/000000/c.png)</a>
+  <a href="#">![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)</a>
+  <a href="#">![php](https://img.icons8.com/officel/48/000000/php-logo.png)</a>
 
 <br>   
     
 - **Front-End Development**:  
   <br>
-![html](https://img.icons8.com/color/48/000000/html-5.png)
-![css](https://img.icons8.com/color/48/000000/css3.png)
-![js](https://img.icons8.com/color/48/000000/javascript.png)
-![scss](https://img.icons8.com/color/48/000000/sass.png)
+<a href="#">![html](https://img.icons8.com/color/48/000000/html-5.png)</a>
+<a href="#">![css](https://img.icons8.com/color/48/000000/css3.png)</a>
+<a href="#">![js](https://img.icons8.com/color/48/000000/javascript.png)</a>
+<a href="#">![scss](https://img.icons8.com/color/48/000000/sass.png)</a>
 
 <br>
 
 - **Cloud Hosting**:
 
-  ![js](https://img.icons8.com/color/48/000000/git.png)
+  <a href="#">![js](https://img.icons8.com/color/48/000000/git.png)</a>
 
 <br>
 
 - **Softwares and Tools**:
 
-  ![hit](https://img.icons8.com/color/48/000000/git.png)
-  ![github](https://img.icons8.com/color/48/000000/github.png)
-  <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Figma" height="40" />
-  ![js](https://img.icons8.com/color/48/000000/stackoverflow.png)
-  <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" />
+  <a href="#">![hit](https://img.icons8.com/color/48/000000/git.png)</a>
+  <a href="#">![github](https://img.icons8.com/color/48/000000/github.png)</a>
+  <a href="#"> <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Figma" height="40" /></a>
+  <a href="#">![js](https://img.icons8.com/color/48/000000/stackoverflow.png)</a>
+  <a href="#"> <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" /></a>
 
 <br>
 <br>
