@@ -46,17 +46,17 @@
 
 - **Cloud Hosting**:
 
-  <a href="#">![github pages](https://img.icons8.com/color/48/000000/git.svg)</a>
+  <a href="#">![github pages](https://img.icons8.com/color/50/000000/git.svg)</a>
 
 <br>
 
 - **Softwares and Tools**:
 
-  <a href="#">![hit](https://img.icons8.com/color/48/000000/git.svg)</a>
+  <a href="#">![hit](https://img.icons8.com/color/50/000000/git.svg)</a>
   <a href="#">![github](https://img.icons8.com/color/48/000000/github.svg)</a>
-  <a href="#"><img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Figma" height="48" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/google.svg" alt="google-icon" height="48" /></a>
   <a href="#">![stackoverflow](https://img.icons8.com/color/48/000000/stackoverflow.svg)</a>
-  <a href="#">![figma](https://img.icons8.com/color/48/000000/figma.svg)</a>
+  <a href="#">![figma](https://img.icons8.com/color/45/000000/figma.svg)</a>
 
   <br>
   <br>
