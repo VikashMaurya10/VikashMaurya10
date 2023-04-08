@@ -27,7 +27,8 @@
 <p align="center">
 
 - **Languages**:
-  <br>
+    <br>
+    <br>
   <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/c.svg" width ="48"></a>
   <a href="#">![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.svg)</a>
   <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/php.svg" width ="48"></a>
@@ -80,8 +81,10 @@
 
 <br>
 <br>
+<!-- 
+<a href="#">[![Tap to Reload](https://metrics.lecoq.io/VikashMaurya10?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/VikashMaurya10)</a> -->
 
-<a href="#">[![Tap to Reload](https://metrics.lecoq.io/VikashMaurya10?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/VikashMaurya10)</a>
+<a href="#">[![Tap to Reload](https://metrics.lecoq.io/VikashMaurya10?template=classic&base.hireable=true&repositories.forks=true&base.header=0&base.community=0&base.repositories=0&languages=1&achievements=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&languages=false&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta&config.octicon=true)](https://www.github.com/VikashMaurya10)</a>
 
 </div>
 <br>
