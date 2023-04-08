@@ -59,7 +59,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/google.svg" alt="google-icon" height="48" /></a>
   <a href="#">![stackoverflow](https://img.icons8.com/color/48/000000/stackoverflow.svg)</a><a href="#">![figma](https://img.icons8.com/color/45/000000/figma.svg)</a>
 
-  <br>0
+  <br>
   <br>
   <br>
 
