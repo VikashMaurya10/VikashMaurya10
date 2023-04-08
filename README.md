@@ -6,16 +6,19 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/avtar.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/hero.gif" width = 250px></picture>
 <br>
 
 - A passionate Self-taught Front-end developer.<br>
 - Currently pursuing <b>MCA</b> form <b>Bundelkhand University</b>.<br>
 - Currently learning Web Development and Backend Development by Self Study.
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  <br>
+  <br>
+  <img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/line.gif">
+  <br>
+  <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -25,40 +28,43 @@
 
 - **Languages**:
   <br>
-  <a href="#">![c](https://img.icons8.com/color/48/000000/c.png)</a>
-  <a href="#">![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)</a>
-  <a href="#">![php](https://img.icons8.com/officel/48/000000/php-logo.png)</a>
+  <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/c.svg" width ="48"></a>
+  <a href="#">![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.svg)</a>
+  <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/php.svg" width ="48"></a>
 
 <br>   
     
 - **Front-End Development**:  
   <br>
-<a href="#">![html](https://img.icons8.com/color/48/000000/html-5.png)</a>
-<a href="#">![css](https://img.icons8.com/color/48/000000/css3.png)</a>
-<a href="#">![js](https://img.icons8.com/color/48/000000/javascript.png)</a>
-<a href="#">![scss](https://img.icons8.com/color/48/000000/sass.png)</a>
+<a href="#">![html](https://img.icons8.com/color/48/000000/html-5.svg)</a>
+<a href="#">![css](https://img.icons8.com/color/48/000000/css3.svg)</a>
+<a href="#">![js](https://img.icons8.com/color/48/000000/javascript.svg)</a>
+<a href="#">![scss](https://img.icons8.com/color/48/000000/sass.svg)</a>
+<a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/jquery.svg" width ="48"></a>
+
+<img src="" width ="80">
 
 <br>
 
 - **Cloud Hosting**:
 
-  <a href="#">![js](https://img.icons8.com/color/48/000000/git.png)</a>
+  <a href="#">![github pages](https://img.icons8.com/color/48/000000/git.svg)</a>
 
 <br>
 
 - **Softwares and Tools**:
 
-  <a href="#">![hit](https://img.icons8.com/color/48/000000/git.png)</a>
-  <a href="#">![github](https://img.icons8.com/color/48/000000/github.png)</a>
-  <a href="#"> <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Figma" height="40" /></a>
-  <a href="#">![js](https://img.icons8.com/color/48/000000/stackoverflow.png)</a>
-  <a href="#"> <img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="40" /></a>
+  <a href="#">![hit](https://img.icons8.com/color/48/000000/git.svg)</a>
+  <a href="#">![github](https://img.icons8.com/color/48/000000/github.svg)</a>
+  <a href="#"><img style="margin-left: 10px" src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Figma" height="48" /></a>
+  <a href="#">![stackoverflow](https://img.icons8.com/color/48/000000/stackoverflow.svg)</a>
+  <a href="#">![figma](https://img.icons8.com/color/48/000000/figma.svg)</a>
 
-<br>
-<br>
-<br>
+  <br>
+  <br>
+  <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/line.gif">
 
 <br>
 
@@ -87,19 +93,19 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/handshake.gif" width ="80">
 
 <br>
 
-[![@in-vikashmaurya](https://img.icons8.com/fluency/48/000000/linkedin.png "@in-vikashmaurya")](https://www.linkedin.com/in/in-vikashmaurya/)
-[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/instagram-new.png "@vikashmauryastp")](https://www.instagram.com/vikashmauryastp/)
-[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/gmail-new "@vikashmaurya10stp@gmail.com")](mailto:vikashmaurya10stp@gmail.com)
-[![@VikashMauryastp](https://img.icons8.com/fluency/48/000000/facebook.png "@VikashMauryastp")](https://www.facebook.com/VikashMauryastp)
+[![@in-vikashmaurya](https://img.icons8.com/fluency/48/000000/linkedin.svg "@in-vikashmaurya")](https://www.linkedin.com/in/in-vikashmaurya/)
+[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/instagram-new.svg "@vikashmauryastp")](https://www.instagram.com/vikashmauryastp/)
+[![@vikashmauryastp](https://img.icons8.com/fluency/48/000000/gmail-new.svg "@vikashmaurya10stp@gmail.com")](mailto:vikashmaurya10stp@gmail.com)
+[![@VikashMauryastp](https://img.icons8.com/fluency/48/000000/facebook.svg "@VikashMauryastp")](https://www.facebook.com/VikashMauryastp)
 
 <br>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/line.gif">
 
 <br>
 
@@ -134,6 +140,8 @@
 
 ### Frontend Mentor Challenages:
 
+- [news-homepage-main](https://vikashmaurya10.github.io/news-homepage-main/)
+
 - [article-preview-component-master](https://vikashmaurya10.github.io/article-preview-component-master/)
 - [huddle-landing-page-with-single-introductory-section-master](https://vikashmaurya10.github.io/huddle-landing-page-with-single-introductory-section-master/)
 - [social-proof-section-master](https://vikashmaurya10.github.io/social-proof-section-master/)
@@ -151,4 +159,4 @@
 
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/line.gif">
