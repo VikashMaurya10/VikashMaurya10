@@ -42,8 +42,6 @@
 <a href="#">![scss](https://img.icons8.com/color/48/000000/sass.svg)</a>
 <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/jquery.svg" width ="48"></a>
 
-<img src="" width ="80">
-
 <br>
 
 - **Cloud Hosting**:
