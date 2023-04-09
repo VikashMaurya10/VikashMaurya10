@@ -114,7 +114,7 @@
 
 <br>
 
-### ``Creativity:``
+### **Creativity**:
 
 > [Calculator](https://vikashmaurya10.github.io/calculator/)
 
@@ -160,7 +160,7 @@
 
 <br>
 
-### `Frontend Mentor Challenages:`
+### **Frontend Mentor Challenages**:
 
 > [Testimonials-grid-section-main](https://vikashmaurya10.github.io/testimonials-grid-section-main/)
 
