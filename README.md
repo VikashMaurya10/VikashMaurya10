@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Vikash Maurya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Vikash Maurya </b><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=++&hearts;++;Self-taught+Front-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -20,7 +20,7 @@
   <br>
   <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <br>
 
@@ -67,7 +67,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img align="center" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <br>
 
@@ -94,7 +94,7 @@
 
 <br>
 
-## <b> Let's Connect..!</b><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img align="center" src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/handshake.gif" width ="80">
 
 <br>
 
@@ -110,53 +110,91 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Projects</b>
+## <img align="center"  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Projects</b>
 
 <br>
 
-### Creativity:
+### `Creativity:`
 
-- [Calculator](https://vikashmaurya10.github.io/calculator/)
-- [Inkronix](https://vikashmaurya10.github.io/inkronix/)
-- [Ui-Clone-Windows-11](https://vikashmaurya10.github.io/Clone-Windows-11/)
-- [watch-landing-page](https://vikashmaurya10.github.io/watch-landing-page/)
-- [Rotate-Circle](https://vikashmaurya10.github.io/Rotate-Circle/)
-- [Ripple-Search](https://vikashmaurya10.github.io/Ripple-Search/)
-- [Profile-Card](https://vikashmaurya10.github.io/Profile-Card-II-/)
-- [Profile-Card](https://vikashmaurya10.github.io/Profile-Card/)
-- [Product-Card](https://vikashmaurya10.github.io/Product-Card/)
-- [Preloder](https://vikashmaurya10.github.io/Preloder/)
-- [Input-Field](https://vikashmaurya10.github.io/Input-Field/)
-- [Hamburger-Button](https://vikashmaurya10.github.io/Hamburger-Button/)
-- [Glowing-Button](https://vikashmaurya10.github.io/Glowing-Button/)
-- [Dropdown-Menu](https://vikashmaurya10.github.io/Dropdown-Menu/)
-- [Digital-Clock](https://vikashmaurya10.github.io/Digital-Clock/)
-- [Counter](https://vikashmaurya10.github.io/Counter/)
-- [color Flipper](https://vikashmaurya10.github.io/color_Flipper/)
-- [Collage Assignment](https://vikashmaurya10.github.io/Assignment/)
-- [Button Ripple Effect](https://vikashmaurya10.github.io/ButtonRippleEffect/)
-- [3D-Cube](https://vikashmaurya10.github.io/3D-Cube/)
+> [Calculator](https://vikashmaurya10.github.io/calculator/)
+
+> [Inkronix](https://vikashmaurya10.github.io/inkronix/)
+
+> [Ui-Clone-Windows-11](https://vikashmaurya10.github.io/Clone-Windows-11/)
+
+> [watch-landing-page](https://vikashmaurya10.github.io/watch-landing-page/)
+
+> [Search-Icon](https://vikashmaurya10.github.io/Search-Icon/)
+
+> [Rotate-Circle](https://vikashmaurya10.github.io/Rotate-Circle/)
+
+> [Ripple-Search](https://vikashmaurya10.github.io/Ripple-Search/)
+
+> [Profile-Card](https://vikashmaurya10.github.io/Profile-Card-II-/)
+
+> [Profile-Card](https://vikashmaurya10.github.io/Profile-Card/)
+
+> [Product-Card](https://vikashmaurya10.github.io/Product-Card/)
+
+> [Preloder](https://vikashmaurya10.github.io/Preloder/)
+
+> [Input-Field](https://vikashmaurya10.github.io/Input-Field/)
+
+> [Hamburger-Button](https://vikashmaurya10.github.io/Hamburger-Button/)
+
+> [Glowing-Button](https://vikashmaurya10.github.io/Glowing-Button/)
+
+> [Dropdown-Menu](https://vikashmaurya10.github.io/Dropdown-Menu/)
+
+> [Digital-Clock](https://vikashmaurya10.github.io/Digital-Clock/)
+
+> [Counter](https://vikashmaurya10.github.io/Counter/)
+
+> [color Flipper](https://vikashmaurya10.github.io/color_Flipper/)
+
+> [Collage Assignment](https://vikashmaurya10.github.io/Assignment/)
+
+> [Button Ripple Effect](https://vikashmaurya10.github.io/ButtonRippleEffect/)
+
+> [3D-Cube](https://vikashmaurya10.github.io/3D-Cube/)
 
 <br>
 
-### Frontend Mentor Challenages:
+### `Frontend Mentor Challenages:`
 
-- [news-homepage-main](https://vikashmaurya10.github.io/news-homepage-main/)
+> [Testimonials-grid-section-main](https://vikashmaurya10.github.io/testimonials-grid-section-main/)
 
-- [article-preview-component-master](https://vikashmaurya10.github.io/article-preview-component-master/)
-- [huddle-landing-page-with-single-introductory-section-master](https://vikashmaurya10.github.io/huddle-landing-page-with-single-introductory-section-master/)
-- [social-proof-section-master](https://vikashmaurya10.github.io/social-proof-section-master/)
-- [nft-preview-card-component-main](https://vikashmaurya10.github.io/nft-preview-card-component-main/)
-- [interactive-rating-component-main](https://vikashmaurya10.github.io/interactive-rating-component-main/)
-- [profile-card-component-main](https://vikashmaurya10.github.io/profile-card-component-main/)
-- [four-card-feature-section-master](https://vikashmaurya10.github.io/four-card-feature-section-master/)
-- [results-summary-component-main](https://vikashmaurya10.github.io/results-summary-component-main/)
-- [single-price-grid-component-master](https://vikashmaurya10.github.io/single-price-grid-component-master/)
-- [3-column-preview-card-component-main](https://vikashmaurya10.github.io/3-column-preview-card-component-main/)
-- [stats-preview-card-component-main](https://vikashmaurya10.github.io/stats-preview-card-component-main/)
-- [order-summary-component-main](https://vikashmaurya10.github.io/order-summary-component-main/)
-- [qr-code-component-main](https://vikashmaurya10.github.io/qr-code-component-main/)
-- [base-apparel-coming-soon-master](https://vikashmaurya10.github.io/base-apparel-coming-soon-maste/)
+> [News-homepage-main](https://vikashmaurya10.github.io/news-homepage-main/)
+
+> [Article-preview-component-master](https://vikashmaurya10.github.io/article-preview-component-master/)
+
+> [Huddle-landing-page-with-single-introductory-section-master](https://vikashmaurya10.github.io/huddle-landing-page-with-single-introductory-section-master/)
+
+> [Social-proof-section-master](https://vikashmaurya10.github.io/social-proof-section-master/)
+
+> [nft-preview-card-component-main](https://vikashmaurya10.github.io/nft-preview-card-component-main/)
+
+> [Interactive-rating-component-main](https://vikashmaurya10.github.io/interactive-rating-component-main/)
+
+> [Profile-card-component-main](https://vikashmaurya10.github.io/profile-card-component-main/)
+
+> [Intro-component-with-signup-form-master](https://vikashmaurya10.github.io/intro-component-with-signup-form-master/)
+
+> [Four-card-feature-section-master](https://vikashmaurya10.github.io/four-card-feature-section-master/)
+
+> [Results-summary-component-main](https://vikashmaurya10.github.io/results-summary-component-main/)
+
+> [Single-price-grid-component-master](https://vikashmaurya10.github.io/single-price-grid-component-master/)
+
+> [3-Column-preview-card-component-main](https://vikashmaurya10.github.io/3-column-preview-card-component-main/)
+
+> [Stats-preview-card-component-main](https://vikashmaurya10.github.io/stats-preview-card-component-main/)
+
+> [Order-summary-component-main](https://vikashmaurya10.github.io/order-summary-component-main/)
+
+> [Qr-code-component-main](https://vikashmaurya10.github.io/qr-code-component-main/)
+
+> [Base-apparel-coming-soon-master](https://vikashmaurya10.github.io/base-apparel-coming-soon-maste/)
 
 <br>
 <br>
