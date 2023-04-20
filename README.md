@@ -42,6 +42,7 @@
 <a href="#">![js](https://img.icons8.com/color/48/000000/javascript.svg)</a>
 <a href="#">![scss](https://img.icons8.com/color/48/000000/sass.svg)</a>
 <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/jquery.svg" width ="48"></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=react" width ="48"></a>
 
 <br>
 
@@ -114,7 +115,11 @@
 
 <br>
 
-### **Creativity**:
+### **Currently Working 🧑‍💻**:
+
+> [Movie app](https://movie-vite-vikashmaurya10.vercel.app/)
+
+### **Creativity ✨**:
 
 > [Calculator](https://vikashmaurya10.github.io/calculator/)
 
@@ -160,7 +165,7 @@
 
 <br>
 
-### **Frontend Mentor Challenages**:
+### **Frontend Mentor Challenages 🎯💫**:
 
 > [Testimonials-grid-section-main](https://vikashmaurya10.github.io/testimonials-grid-section-main/)
 
@@ -194,7 +199,7 @@
 
 > [Qr-code-component-main](https://vikashmaurya10.github.io/qr-code-component-main/)
 
-> [Base-apparel-coming-soon-master](https://vikashmaurya10.github.io/base-apparel-coming-soon-maste/)
+<!-- > [Base-apparel-coming-soon-master](https://vikashmaurya10.github.io/base-apparel-coming-soon-maste/) -->
 
 <br>
 <br>
