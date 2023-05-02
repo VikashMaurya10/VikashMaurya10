@@ -117,7 +117,7 @@
 
 ### **Currently Working 🧑‍💻**:
 
-> [Movie app](https://movie-vite-vikashmaurya10.vercel.app/)
+> [Movie app](https://buffee.vercel.app/)
 
 ### **Creativity ✨**:
 
@@ -167,6 +167,8 @@
 
 ### **Frontend Mentor Challenages 🎯💫**:
 
+> [Expenses-chart-component-main](https://vikashmaurya10.github.io/expenses-chart-component-main/)
+
 > [Testimonials-grid-section-main](https://vikashmaurya10.github.io/testimonials-grid-section-main/)
 
 > [News-homepage-main](https://vikashmaurya10.github.io/news-homepage-main/)
@@ -177,7 +179,7 @@
 
 > [Social-proof-section-master](https://vikashmaurya10.github.io/social-proof-section-master/)
 
-> [nft-preview-card-component-main](https://vikashmaurya10.github.io/nft-preview-card-component-main/)
+> [NFT-preview-card-component-main](https://vikashmaurya10.github.io/nft-preview-card-component-main/)
 
 > [Interactive-rating-component-main](https://vikashmaurya10.github.io/interactive-rating-component-main/)
 
