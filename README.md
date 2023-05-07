@@ -121,11 +121,13 @@
 
 ### **Creativity ✨**:
 
+> [News-app](https://news-app-vm.vercel.app/) 
+
 > [Calculator](https://vikashmaurya10.github.io/calculator/)
 
-> [Inkronix](https://vikashmaurya10.github.io/inkronix/)
+<!-- > [Inkronix](https://vikashmaurya10.github.io/inkronix/) -->
 
-> [Ui-Clone-Windows-11](https://vikashmaurya10.github.io/Clone-Windows-11/)
+> [UI-Clone-Windows-11](https://vikashmaurya10.github.io/Clone-Windows-11/)
 
 > [watch-landing-page](https://vikashmaurya10.github.io/watch-landing-page/)
 
@@ -166,6 +168,10 @@
 <br>
 
 ### **Frontend Mentor Challenages 🎯💫**:
+
+> [Huddle-landing-page-with-alternating-feature-blocks-master](https://huddle-landing-page-with-alternating-git-1dbf46-vikashmaurya10.vercel.app/)
+
+> [Time-tracking-dashboard-main](https://time-tracking-dashboard-main-vm.vercel.app/daily)
 
 > [Expenses-chart-component-main](https://vikashmaurya10.github.io/expenses-chart-component-main/)
 
