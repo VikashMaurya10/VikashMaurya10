@@ -6,9 +6,9 @@
 
 <br>
 
-## <img src = "./images/avtar.gif" width = 50px> **About me**
+## <img src = "https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/avtar.gif" width = 50px> **About me**
 
-<img align="right" src="./images/hero.gif" width = 250px>
+<img align="right" src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/hero.gif" width = 250px>
 
 <br>
 
@@ -30,7 +30,7 @@
 - **Languages**:
   <br>
   <br>
-  <a title="C" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/c.svg" width ="48"></a>
+  <a title="C" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/8a90e274faa325551e3caed6a97b84bedb0f7f54/images/c.svg" width ="48"></a>
   <a title="Java" href="#">![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.svg)</a>
   <a title="PHP" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/php.svg" width ="48"></a>
 
