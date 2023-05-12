@@ -29,36 +29,38 @@
 - **Languages**:
   <br>
   <br>
-  <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/c.svg" width ="48"></a>
-  <a href="#">![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.svg)</a>
-  <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/php.svg" width ="48"></a>
+  <a title="C" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/c.svg" width ="48"></a>
+  <a title="Java" href="#">![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.svg)</a>
+  <a title="PHP" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/php.svg" width ="48"></a>
 
 <br>   
     
 - **Front-End Development**:  
   <br>
-<a href="#">![html](https://img.icons8.com/color/48/000000/html-5.svg)</a>
-<a href="#">![css](https://img.icons8.com/color/48/000000/css3.svg)</a>
-<a href="#">![js](https://img.icons8.com/color/48/000000/javascript.svg)</a>
-<a href="#">![scss](https://img.icons8.com/color/48/000000/sass.svg)</a>
-<a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/jquery.svg" width ="48"></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=react" width ="48"></a>
+<a title="Html5" href="#">![html](https://img.icons8.com/color/48/000000/html-5.svg)</a>
+<a title="CSS3" href="#">![css](https://img.icons8.com/color/48/000000/css3.svg)</a>
+<a title="javaScript" href="#">![js](https://img.icons8.com/color/48/000000/javascript.svg)</a>
+<a title="SCSS" href="#">![scss](https://img.icons8.com/color/48/000000/sass.svg)</a>
+<a title="jQuery" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/jquery.svg" width ="48"></a>
+<a title="React JS" href="#"><img src="https://skillicons.dev/icons?i=react" width ="48"></a>
+<a title="Vite" href="#"><img src="https://skillicons.dev/icons?i=vite" width ="48"></a>
+<!-- <a title="vercel" href="#"><img src="https://skillicons.dev/icons?i=vercel" width ="48"></a> -->
 
 <br>
 
 - **Cloud Hosting**:
 
-  <a href="#">![github pages](https://img.icons8.com/color/50/000000/git.svg)</a>
+  <a title="gitHub pages" href="#">![github pages](https://img.icons8.com/color/50/000000/git.svg)</a>
+  <a title="Vercel" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/vercel.svg" width ="48"></a>
 
 <br>
 
 - **Softwares and Tools**:
 
-  <a href="#">![hit](https://img.icons8.com/color/50/000000/git.svg)</a>
-  <a href="#">![github](https://img.icons8.com/color/48/000000/github.svg)</a>
-  <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/vscode.svg" alt="vs-code" height="45" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/google.svg" alt="google-icon" height="48" /></a>
-  <a href="#">![stackoverflow](https://img.icons8.com/color/48/000000/stackoverflow.svg)</a><a href="#">![figma](https://img.icons8.com/color/45/000000/figma.svg)</a>
+  <a title="git" href="#">![hit](https://img.icons8.com/color/50/000000/git.svg)</a>
+  <a title="gitHub" href="#">![github](https://img.icons8.com/color/48/000000/github.svg)</a>
+  <a title="vs-code" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/vscode.svg" alt="vs-code" height="45" /></a>
+  <a title="google" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/google.svg" alt="google-icon" height="48" /></a><a title="stackoverflow" href="#">![stackoverflow](https://img.icons8.com/color/48/000000/stackoverflow.svg)</a><a title="figma" href="#">![figma](https://img.icons8.com/color/45/000000/figma.svg)</a>
 
   <br>
   <br>
@@ -82,8 +84,8 @@
 
 <br>
 <br>
-
-<!-- <a href="#">[![Tap to Reload](https://metrics.lecoq.io/VikashMaurya10?template=classic&base.header=0&base.metadata=0&isocalendar=0&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/VikashMaurya10)</a> -->
+<!-- 
+<a href="#">[![Tap to Reload](https://metrics.lecoq.io/VikashMaurya10?template=classic&base.header=0&base.metadata=0&isocalendar=0&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/VikashMaurya10)</a> -->
 
 <a href="#">[![Tap to Reload](https://metrics.lecoq.io/VikashMaurya10?template=classic&base.metadata=0&base.hireable=true&repositories.forks=true&base.header=0&base.community=0&base.repositories=0&languages=1&achievements=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20&base.indepth=false&base.hireable=true&base.skip=false&languages=false&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FCalcutta)](https://www.github.com/VikashMaurya10)</a>
 
@@ -121,7 +123,7 @@
 
 ### **Creativity ✨**:
 
-> [News-app](https://news-app-vm.vercel.app/) 
+> [News-app](https://news-app-vm.vercel.app/)
 
 > [Calculator](https://vikashmaurya10.github.io/calculator/)
 
