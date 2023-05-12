@@ -43,15 +43,16 @@
 <a title="javaScript" href="#">![js](https://img.icons8.com/color/48/000000/javascript.svg)</a>
 <a title="SCSS" href="#">![scss](https://img.icons8.com/color/48/000000/sass.svg)</a>
 <a title="jQuery" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/jquery.svg" width ="48"></a>
-<a title="React JS" href="#"><img src="https://skillicons.dev/icons?i=react" width ="48"></a>
-<a title="Vite" href="#"><img src="https://skillicons.dev/icons?i=vite" width ="48"></a>
+<a title="React Js" align='center' href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/react.svg" width ="40"></a>
+<a title="Vite" align='center' href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/vite.svg" width ="40"></a>
 
+<!-- <a title="React JS" href="#"><img src="https://skillicons.dev/icons?i=react" width ="48"></a> -->
 <br>
 
 - **Cloud Hosting**:
 
   <a title="gitHub pages" href="#">![github pages](https://img.icons8.com/color/50/000000/git.svg)</a>
-  <a title="vercel" href="#"><img src="https://skillicons.dev/icons?i=vercel" width ="48"></a>
+  <a title="vercel" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/vercel.svg" width ="48"></a>
 
 <br>
 
