@@ -6,9 +6,9 @@
 
 <br>
 
-## <picture><img src = "https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/avtar.gif" width = 50px></picture> **About me**
+## <picture><img src = "./images/avtar.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/hero.gif" width = 250px></picture>
+<picture> <img align="right" src="./images/hero.gif" width = 250px></picture>
 <br>
 
 - A passionate Self-taught Front-end developer.<br>
@@ -44,14 +44,13 @@
 <a title="jQuery" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/jquery.svg" width ="48"></a>
 <a title="React JS" href="#"><img src="https://skillicons.dev/icons?i=react" width ="48"></a>
 <a title="Vite" href="#"><img src="https://skillicons.dev/icons?i=vite" width ="48"></a>
-<!-- <a title="vercel" href="#"><img src="https://skillicons.dev/icons?i=vercel" width ="48"></a> -->
 
 <br>
 
 - **Cloud Hosting**:
 
   <a title="gitHub pages" href="#">![github pages](https://img.icons8.com/color/50/000000/git.svg)</a>
-  <a title="Vercel" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/vercel.svg" width ="48"></a>
+  <a title="vercel" href="#"><img src="https://skillicons.dev/icons?i=vercel" width ="48"></a>
 
 <br>
 
@@ -93,7 +92,8 @@
 <br>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="./images/line.gif">
 
 <br>
 
