@@ -6,9 +6,10 @@
 
 <br>
 
-## <picture><img src = "./images/avtar.gif" width = 50px></picture> **About me**
+## <img src = "./images/avtar.gif" width = 50px> **About me**
 
-<picture> <img align="right" src="./images/hero.gif" width = 250px></picture>
+<img align="right" src="./images/hero.gif" width = 250px>
+
 <br>
 
 - A passionate Self-taught Front-end developer.<br>
