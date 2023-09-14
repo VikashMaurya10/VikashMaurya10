@@ -121,9 +121,11 @@
 
 ### **Currently Working 🧑‍💻**:
 
-> [To Do App](https://todo-app-frontend-vm.vercel.app/) <i>Fullstack web Application </i>
+> [Social Media Platform Wallet Dashboard](https://social-media-platform-wallet-dashboard-frontend.vercel.app/) <i>Fullstack web Application </i>
 
 ### **Creativity ✨**:
+
+> [To Do App](https://todo-app-frontend-vm.vercel.app/) <i>Fullstack web Application </i>
 
 > [Movie app](https://buffee.vercel.app/)
 
