@@ -13,8 +13,8 @@
 <br>
 
 - A passionate Self-taught Front-end developer.<br>
-- Currently pursuing <b>MCA</b> form <b>Bundelkhand University</b>.<br>
-- Currently learning Web Development and Backend Development by Self Study.
+- I have done my postgraduate form <b><i>Bundelkhand University</i></b> in <b><i>Master of Computer Application</i></b>.<br>
+- Currently learning Backend Development by Self Study.
   <br>
   <br>
   <img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/line.gif">
