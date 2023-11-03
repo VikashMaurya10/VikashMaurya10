@@ -31,14 +31,14 @@
   <br>
   <br>
   <a title="C" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/8a90e274faa325551e3caed6a97b84bedb0f7f54/images/c.svg" width ="48"></a>
-  <a title="Java" href="#">![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.svg)</a>
-  <a title="PHP" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/php.svg" width ="48"></a>
+  <!-- <a title="Java" href="#">![java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.svg)</a>
+  <a title="PHP" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/php.svg" width ="48"></a> -->
 
 <br>   
     
 - **Front-End Development**:  
   <br>
-<a title="Html5" href="#">![html](https://img.icons8.com/color/48/000000/html-5.svg)</a>
+<a title="Html5" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/html-5.svg" width ="48"></a>
 <a title="CSS3" href="#">![css](https://img.icons8.com/color/48/000000/css3.svg)</a>
 <a title="javaScript" href="#">![js](https://img.icons8.com/color/48/000000/javascript.svg)</a>
 <a title="SCSS" href="#">![scss](https://img.icons8.com/color/48/000000/sass.svg)</a>
@@ -58,15 +58,16 @@
 
 - **Softwares and Tools**:
 
-  <a title="git" href="#">![hit](https://img.icons8.com/color/50/000000/git.svg)</a>
+  <a title="git" href="#">![hit](https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/facebook.svg)</a>
   <a title="gitHub" href="#">![github](https://img.icons8.com/color/48/000000/github.svg)</a>
   <a title="vs-code" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/vscode.svg" alt="vs-code" height="45" /></a>
   <a title="google" href="#"><img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/google.svg" alt="google-icon" height="48" /></a><a title="stackoverflow" href="#">![stackoverflow](https://img.icons8.com/color/48/000000/stackoverflow.svg)</a><a title="figma" href="#">![figma](https://img.icons8.com/color/45/000000/figma.svg)</a>
 
-  <br>
-  <br>
-  <br>
+    <br>
+    <br>
+    <br>
 
+https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/facebook.svg
 <img src="https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/line.gif">
 
 <br>
@@ -121,15 +122,25 @@
 
 ### **Currently Working 🧑‍💻**:
 
-> [Social Media Platform Wallet Dashboard](https://social-media-platform-wallet-dashboard-frontend.vercel.app/) <i>Fullstack web Application </i>
+> [Open Fashion With Next.js](https://open-fashion-of.vercel.app/) <i>Fullstack web Application </i>
+
+> [E-commerce Website With Next.js](https://e-commerce-website-with-next-js-vm.vercel.app/) <i>Fullstack web Application </i>
 
 ### **Creativity ✨**:
 
+> [Technix Website Landing Page](https://technix-vikashmaurya.vercel.app/)
+
+> [Auth App With Next.js](https://auth-app-with-next-js.vercel.app/) <i>Fullstack web Application </i>
+
+> [Auth App With Next.js](https://auth-app-with-next-js.vercel.app/login) <i>Fullstack web Application </i>
+
+> [Social Media Platform Wallet Dashboard](https://social-media-platform-wallet-dashboard-frontend.vercel.app/) <i>Fullstack web Application </i>
+
 > [To Do App](https://todo-app-frontend-vm.vercel.app/) <i>Fullstack web Application </i>
 
-> [Movie app](https://buffee.vercel.app/)
+> [Movie app](https://buffee.vercel.app/) <i>Fullstack web Application </i>
 
-> [News-app](https://news-app-vm.vercel.app/) ⭐
+> [News-app](https://news-app-vm.vercel.app/)
 
 > [Calculator](https://vikashmaurya10.github.io/calculator/)
 
