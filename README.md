@@ -130,8 +130,6 @@ https://raw.githubusercontent.com/VikashMaurya10/VikashMaurya10/main/images/face
 
 > [Technix Website Landing Page](https://technix-vikashmaurya.vercel.app/)
 
-> [Auth App With Next.js](https://auth-app-with-next-js.vercel.app/) <i>Fullstack web Application </i>
-
 > [Auth App With Next.js](https://auth-app-with-next-js.vercel.app/login) <i>Fullstack web Application </i>
 
 > [Social Media Platform Wallet Dashboard](https://social-media-platform-wallet-dashboard-frontend.vercel.app/) <i>Fullstack web Application </i>
